@@ -74,7 +74,7 @@ SafePay isn't just a basic ledger; it enforces structural rules to simulate a ge
 
 * **Author:** bhanuatla521-svg
 * **GitHub:** [@bhanuatla521-svg](https://github.com/bhanuatla521-svg)
-* **Project Link:** [SafePay Repository](https://github.com/bhanuatla521-svg/SafePay)
+* **Project Link:** [SafePay Repository](https://bhanuatla521-svg.github.io/SafePay/)
 
 ---
 
